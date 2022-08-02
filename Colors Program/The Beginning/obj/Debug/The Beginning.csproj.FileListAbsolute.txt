@@ -1,0 +1,6 @@
+/Users/sabrina/RiderProjects/The Beginning/The Beginning/bin/Debug/The_Beginning.exe
+/Users/sabrina/RiderProjects/The Beginning/The Beginning/bin/Debug/The_Beginning.pdb
+/Users/sabrina/RiderProjects/The Beginning/The Beginning/obj/Debug/The Beginning.csprojAssemblyReference.cache
+/Users/sabrina/RiderProjects/The Beginning/The Beginning/obj/Debug/The Beginning.csproj.CoreCompileInputs.cache
+/Users/sabrina/RiderProjects/The Beginning/The Beginning/obj/Debug/The_Beginning.exe
+/Users/sabrina/RiderProjects/The Beginning/The Beginning/obj/Debug/The_Beginning.pdb
